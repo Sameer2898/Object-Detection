@@ -1,0 +1,11 @@
+The size of the file is too long so i am not able to upload files on github.
+Please download the following files from the link:-
+https://pjreddie.com/darknet/yolo/
+
+files:-
+1. Yolo-V3-320:-
+   a) cfg
+   b) weights
+2. Yolo-V3-tiny:-
+   a) cfg
+   b) weights
